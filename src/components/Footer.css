@@ -1,0 +1,8 @@
+.last{
+    text-align-last:center;
+    bottom:0;
+    background-image: linear-gradient(white);
+    padding: 20px;
+    box-shadow: 2px 2px;
+    color: black;
+}
